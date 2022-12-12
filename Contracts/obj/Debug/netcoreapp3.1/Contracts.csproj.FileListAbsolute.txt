@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\DELL\Downloads\SolutionRepo\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
